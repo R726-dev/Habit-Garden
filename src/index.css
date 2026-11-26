@@ -1,0 +1,63 @@
+
+@import "tailwindcss";
+
+/* =========================
+   DARK MODE - NAVY THEME
+========================= */
+
+/* Cards and panels */
+.dark-theme .bg-white,
+.dark-theme .bg-green-50,
+.dark-theme .bg-emerald-50 {
+  background-color: #172033 !important;
+}
+
+/* Page headings */
+.dark-theme h1,
+.dark-theme h2,
+.dark-theme h3 {
+  color: #F1F5F9 !important;
+}
+
+/* Green text and accents */
+.dark-theme [class*="text-green-"] {
+  color: #2DD4BF !important;
+}
+
+/* Regular text */
+.dark-theme .text-gray-900,
+.dark-theme .text-gray-800,
+.dark-theme .text-gray-700,
+.dark-theme .text-gray-600,
+.dark-theme .text-gray-500 {
+  color: #CBD5E1 !important;
+}
+
+/* Input fields */
+.dark-theme input,
+.dark-theme textarea,
+.dark-theme select {
+  background-color: #0F172A;
+  color: #F1F5F9;
+  border-color: #475569;
+}
+
+/* Input placeholders */
+.dark-theme input::placeholder,
+.dark-theme textarea::placeholder {
+  color: #94A3B8;
+}
+
+/* Buttons */
+.dark-theme button {
+  color: #F1F5F9;
+}
+
+/* =========================
+   LIGHT MODE
+========================= */
+
+.light-theme {
+  background-color: #F1F5F9;
+  color: #334155;
+}

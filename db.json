@@ -1,0 +1,374 @@
+{
+  "habits": [
+    {
+      "id": "habit-1",
+      "name": "Read for 20 minutes",
+      "description": "Read a book every day",
+      "category": "Learning",
+      "completed": true,
+      "completedAt": "2026-11-25T06:30:00.000Z"
+    },
+    {
+      "id": "habit-2",
+      "name": "Morning Exercise",
+      "description": "Do light exercise in the morning",
+      "category": "Health",
+      "completed": true,
+      "completedAt": "2026-11-25T11:33:09.570Z"
+    },
+    {
+      "id": "habit-3",
+      "name": "Drink Water",
+      "description": "Stay hydrated throughout the day",
+      "category": "Health",
+      "completed": true,
+      "completedAt": "2026-11-25T10:08:32.737Z"
+    },
+    {
+      "id": "habit-4",
+      "name": "Practice JavaScript",
+      "description": "Practice coding for 30 minutes",
+      "category": "Learning",
+      "completed": false
+    },
+    {
+      "id": "habit-5",
+      "name": "Organize My Room",
+      "description": "Keep my surroundings clean",
+      "category": "Personal",
+      "completed": true,
+      "completedAt": "2026-11-25T08:00:00.000Z"
+    },
+    {
+      "id": "habit-6",
+      "name": "Meditation",
+      "description": "Spend 10 minutes meditating",
+      "category": "Mindfulness",
+      "completed": false
+    },
+    {
+      "id": "habit-7",
+      "name": "Learn React",
+      "description": "Learn one new React concept",
+      "category": "Learning",
+      "completed": false,
+      "completedAt": null
+    },
+    {
+      "id": "habit-8",
+      "name": "Sleep on Time",
+      "description": "Maintain a consistent sleep schedule",
+      "category": "Health",
+      "completed": true,
+      "completedAt": "2026-11-25T08:30:00.000Z"
+    }
+  ],
+  "categories": [
+    {
+      "id": "cat-1",
+      "name": "Learning"
+    },
+    {
+      "id": "cat-2",
+      "name": "Health"
+    },
+    {
+      "id": "cat-3",
+      "name": "Personal"
+    },
+    {
+      "id": "cat-4",
+      "name": "Mindfulness"
+    }
+  ],
+  "completions": [
+    {
+      "id": "completion-1",
+      "habitId": "habit-1",
+      "habitName": "Read for 20 minutes",
+      "category": "Learning",
+      "completedAt": "2026-11-25T06:30:00.000Z"
+    },
+    {
+      "id": "completion-2",
+      "habitId": "habit-2",
+      "habitName": "Morning Exercise",
+      "category": "Health",
+      "completedAt": "2026-11-25T07:00:00.000Z"
+    },
+    {
+      "id": "completion-3",
+      "habitId": "habit-5",
+      "habitName": "Organize My Room",
+      "category": "Personal",
+      "completedAt": "2026-11-25T08:00:00.000Z"
+    },
+    {
+      "id": "completion-4",
+      "habitId": "habit-8",
+      "habitName": "Sleep on Time",
+      "category": "Health",
+      "completedAt": "2026-11-25T08:30:00.000Z"
+    },
+    {
+      "habitId": null,
+      "habitName": "Read",
+      "category": "Learning",
+      "completedAt": "2026-11-25T09:27:24.712Z",
+      "id": "Rs3D7o3gbl8"
+    },
+    {
+      "habitId": "habit-7",
+      "habitName": "Learn React",
+      "category": "Learning",
+      "completedAt": "2026-11-25T09:37:20.357Z",
+      "id": "1yfDxYOMY3Y"
+    },
+    {
+      "habitId": "habit-3",
+      "habitName": "Drink Water",
+      "category": "Health",
+      "completedAt": "2026-11-25T10:08:32.737Z",
+      "id": "tL1ft2KMj_k"
+    },
+    {
+      "habitId": "habit-2",
+      "habitName": "Morning Exercise",
+      "category": "Health",
+      "completedAt": "2026-11-25T11:33:09.570Z",
+      "id": "iLT81IhdTtY"
+    }
+  ],
+  "sessions": [
+    {
+      "habitId": "habit-3",
+      "completedAt": "2026-11-25T10:03:44.585Z",
+      "id": "_y_tKgWl2aQ"
+    },
+    {
+      "habitId": "habit-7",
+      "completedAt": "2026-11-25T10:11:02.417Z",
+      "id": "pyAhc4l3Zpo"
+    },
+    {
+      "habitId": "habit-5",
+      "completedAt": "2026-11-25T10:32:56.719Z",
+      "id": "HoQbCfOiL10"
+    },
+    {
+      "habitId": "habit-2",
+      "completedAt": "2026-11-25T10:33:00.725Z",
+      "id": "nolvLhUwJ98"
+    },
+    {
+      "habitId": "habit-1",
+      "completedAt": "2026-11-25T10:34:20.777Z",
+      "id": "GtYk7U20QKE"
+    },
+    {
+      "habitId": "habit-1",
+      "completedAt": "2026-11-25T10:34:27.729Z",
+      "id": "_owZ_pHZclM"
+    },
+    {
+      "habitId": "habit-6",
+      "completedAt": "2026-11-25T10:36:51.778Z",
+      "id": "4zyFJ8fPmzg"
+    },
+    {
+      "habitId": "habit-4",
+      "completedAt": "2026-11-25T11:26:37.696Z",
+      "id": "arxN6X-StFU"
+    },
+    {
+      "habitId": "habit-4",
+      "completedAt": "2026-11-25T11:26:49.904Z",
+      "id": "AJOfjysCZfo"
+    },
+    {
+      "habitId": null,
+      "completedAt": "2026-11-25T11:26:59.067Z",
+      "id": "w2rCO9nj3uQ"
+    },
+    {
+      "habitId": "habit-2",
+      "completedAt": "2026-11-25T11:29:51.740Z",
+      "id": "q91qp-Rt9M8"
+    },
+    {
+      "habitId": "habit-2",
+      "completedAt": "2026-11-25T11:32:56.545Z",
+      "id": "JjA8chumUg8"
+    },
+    {
+      "habitId": "habit-2",
+      "completedAt": "2026-11-25T11:33:08.949Z",
+      "id": "ckPUAsCgJTU"
+    },
+    {
+      "habitId": "habit-3",
+      "completedAt": "2026-11-26T04:31:55.212Z",
+      "id": "iM-br0ERZ20"
+    }
+  ],
+  "achievements": [
+    {
+      "id": "achievement-1",
+      "title": "First Step",
+      "description": "Add your first habit",
+      "unlockedAt": "2026-11-20T08:00:00.000Z"
+    },
+    {
+      "id": "achievement-2",
+      "title": "Habit Collector",
+      "description": "Create 5 habits",
+      "unlockedAt": "2026-11-22T08:00:00.000Z"
+    },
+    {
+      "id": "achievement-3",
+      "title": "First Success",
+      "description": "Complete your first habit",
+      "unlockedAt": "2026-11-23T08:00:00.000Z"
+    },
+    {
+      "title": "First Step",
+      "description": "Add your first habit",
+      "unlockedAt": "2026-11-25T05:44:06.605Z",
+      "id": "vr_84X5FKCw"
+    },
+    {
+      "title": "Habit Collector",
+      "description": "Create 5 habits",
+      "unlockedAt": "2026-11-25T05:44:06.719Z",
+      "id": "FfK-buiNgn8"
+    },
+    {
+      "title": "First Step",
+      "description": "Add your first habit",
+      "unlockedAt": "2026-11-25T07:14:50.208Z",
+      "id": "YvY3rjaN10s"
+    },
+    {
+      "title": "Habit Collector",
+      "description": "Create 5 habits",
+      "unlockedAt": "2026-11-25T07:14:50.448Z",
+      "id": "yC2tozsbhDQ"
+    },
+    {
+      "title": "First Success",
+      "description": "Complete your first habit",
+      "unlockedAt": "2026-11-25T07:14:50.607Z",
+      "id": "MrGEq0-MmYc"
+    },
+    {
+      "title": "First Step",
+      "description": "Add your first habit",
+      "unlockedAt": "2026-11-25T11:30:25.594Z",
+      "id": "HXGfibeV__k"
+    },
+    {
+      "title": "Growing Strong",
+      "description": "Have 5 completed habits",
+      "unlockedAt": "2026-11-25T11:30:25.761Z",
+      "id": "MJsnMq8hlq4"
+    },
+    {
+      "title": "Habit Collector",
+      "description": "Create 5 habits",
+      "unlockedAt": "2026-11-25T11:30:26.237Z",
+      "id": "obUgH61dOIc"
+    },
+    {
+      "title": "Growing Strong",
+      "description": "Have 5 completed habits",
+      "unlockedAt": "2026-11-25T11:30:26.394Z",
+      "id": "e5sw2z5V2vY"
+    },
+    {
+      "title": "First Success",
+      "description": "Complete your first habit",
+      "unlockedAt": "2026-11-25T11:30:26.862Z",
+      "id": "w5-xCM9azGc"
+    },
+    {
+      "title": "Growing Strong",
+      "description": "Have 5 completed habits",
+      "unlockedAt": "2026-11-25T11:30:27.476Z",
+      "id": "_3fjKK2EMUY"
+    },
+    {
+      "title": "First Step",
+      "description": "Add your first habit",
+      "unlockedAt": "2026-11-25T11:39:30.666Z",
+      "id": "7PsibZJ95-U"
+    },
+    {
+      "title": "Habit Collector",
+      "description": "Create 5 habits",
+      "unlockedAt": "2026-11-25T11:39:31.318Z",
+      "id": "AHMDHdETU9I"
+    },
+    {
+      "title": "First Success",
+      "description": "Complete your first habit",
+      "unlockedAt": "2026-11-25T11:39:31.925Z",
+      "id": "EaE4DCZXpJk"
+    },
+    {
+      "title": "Growing Strong",
+      "description": "Have 5 completed habits",
+      "unlockedAt": "2026-11-25T11:39:32.531Z",
+      "id": "T6vN3fF2pA8"
+    },
+    {
+      "title": "First Step",
+      "description": "Add your first habit",
+      "unlockedAt": "2026-11-26T04:33:27.053Z",
+      "id": "nViEb_MGL1E"
+    },
+    {
+      "title": "Habit Collector",
+      "description": "Create 5 habits",
+      "unlockedAt": "2026-11-26T04:33:27.100Z",
+      "id": "FSGv6fnZL5k"
+    },
+    {
+      "title": "First Success",
+      "description": "Complete your first habit",
+      "unlockedAt": "2026-11-26T04:33:27.121Z",
+      "id": "YRim4TKD3rY"
+    },
+    {
+      "title": "Growing Strong",
+      "description": "Have 5 completed habits",
+      "unlockedAt": "2026-11-26T04:33:27.132Z",
+      "id": "u7QuKhF3YTI"
+    },
+    {
+      "title": "First Step",
+      "description": "Add your first habit",
+      "unlockedAt": "2026-11-26T04:42:09.714Z",
+      "id": "9JfsIEU92HI"
+    },
+    {
+      "title": "Habit Collector",
+      "description": "Create 5 habits",
+      "unlockedAt": "2026-11-26T04:42:09.772Z",
+      "id": "MyeNitPEAT8"
+    },
+    {
+      "title": "Growing Strong",
+      "description": "Have 5 completed habits",
+      "unlockedAt": "2026-11-26T04:42:09.856Z",
+      "id": "XtnhvvPTQwM"
+    }
+  ],
+  "settings": {
+    "id": "1",
+    "displayName": "Riya",
+    "theme": "light",
+    "animations": true,
+    "weekStartsOn": "0"
+  },
+  "$schema": "./node_modules/json-server/schema.json"
+}
