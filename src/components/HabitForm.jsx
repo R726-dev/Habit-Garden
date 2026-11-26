@@ -183,7 +183,7 @@ function HabitForm({
 
   <input
     type='number'
-    min='4'
+    min='2'
     value={dailyTarget}
     onChange={(e) => setDailyTarget(e.target.value)}
     className='w-full rounded-lg border border-gray-300 p-3 outline-none focus:border-green-600'
